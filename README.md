@@ -1,6 +1,6 @@
 # Chilled Dev Bot
 
-Under construction  👨‍💻
+Under construction  👨‍💻 <br/>
 A chat bot for Discord app based off <a href="https://github.com/hydrabolt/discord.js/">discord.js</a>. </br>
 This repository consists of a personal project to develop a BOT in Discord, as a way of learning.
 </br>
