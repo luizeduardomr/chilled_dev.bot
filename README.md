@@ -1,4 +1,5 @@
-# Chilled Dev Bot - Under construction  👨‍💻
+# Chilled Dev Bot
+## Under construction  👨‍💻
 A chat bot for Discord app based off <a href="https://github.com/hydrabolt/discord.js/">discord.js</a>. </br>
 This repository consists of a personal project to develop a BOT in Discord, as a way of learning.
 </br>
@@ -75,5 +76,5 @@ We are still in base development. So, no contributions yet.
 
 ## License
 <h4 align="center">
-    <img alt="License content" title="License" src="https://prntscr.com/u522bc" />
+    <img alt="License content" title="License" src="https://image.prntscr.com/image/scttkoTpSWCRrNhCYauQCw.png" />
 </h4>
