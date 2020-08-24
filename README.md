@@ -74,6 +74,6 @@ DISCORD_PREFIX=
 We are still in base development. So, no contributions yet.
 
 ## License
-<h1 align="center">
-    <img alt="ALT" title="License" src="https://prntscr.com/u522bc" />
-</h1>
+<h4 align="center">
+    <img alt="License content" title="License" src="https://prntscr.com/u522bc" />
+</h4>
